@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>Macroeconomics</title>
+      <link>https://hirothreading.github.io/macro/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://hirothreading.github.io/macro/</guid>
+      <description>Teaching material for undergraduate macroeconomics courses that I have taught or undertaken.</description>
+    </item>
+    
+    <item>
       <title>Econometrics (Masters/PhD)</title>
       <link>https://hirothreading.github.io/metrics-postgrad/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -96,6 +105,7 @@
       <guid>https://hirothreading.github.io/micro-postgrad/</guid>
       <description>Teaching material for microeconomics courses at the Masters and PhD level that I have taught or undertaken.</description>
     </item>
+    
     
     <item>
       <title>Location</title>
