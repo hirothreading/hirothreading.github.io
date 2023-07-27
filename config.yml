@@ -1,6 +1,6 @@
-baseURL: "https://hirothreading.github.io" 
+baseURL: "https://hirothreading.github.io/" 
 title: David Murakami
-paginate: 20
+paginate: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
