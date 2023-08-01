@@ -1,3 +1,10 @@
 .DS_Store
+archetypes/
+assets/
+content/
+content/research/
+layouts/
 public/
 resources/
+static/
+themes/PaperMod/
