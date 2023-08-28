@@ -29,6 +29,13 @@ This paper builds and estimates a small open economy New Keynesian DSGE model, s
 
 ---
 
+#### Seminars and Presentations
+
+2021: University of Oxford (internal seminar)  
+2023: University of Pavia (internal seminar), London Business School (Transatlantic Doctoral Conference), University of Oxford (IFABS Conference)  
+
+---
+
 #### Citation:
 
 Murakami, David, Gone with the Wind: Monetary Policy and the Global Financial Cycle (June 30, 2021). Available at SSRN: https://ssrn.com/abstract=4198695 or http://dx.doi.org/10.2139/ssrn.4198695
