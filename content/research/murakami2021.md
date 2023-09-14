@@ -29,6 +29,14 @@ This paper builds and estimates a small open economy New Keynesian DSGE model, s
 
 ---
 
+#### IRFs to an annualised 1% shock to the Foreign Interest Rate
+
+![](/murakami2021_fig1.pdf)  
+
+Variables are expressed in percent deviations from their non-stochastic steady state values. Infation and interest rates are annualised.
+
+---
+
 #### Seminars and Presentations
 
 2021: University of Oxford (internal seminar)  
