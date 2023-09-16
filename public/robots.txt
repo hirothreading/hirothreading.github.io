@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://hirothreading.github.io/sitemap.xml
