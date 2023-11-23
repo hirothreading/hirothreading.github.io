@@ -1,5 +1,5 @@
 ---
-title: "Gone with the Wind: Monetary and Financial Policies during Global Financial Cycles" 
+title: "Gone with the Wind: Monetary Policy and the Global Financial Cycle" 
 date: 2021-06-01
 url: /murakami2021/
 aliases: 
