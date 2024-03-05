@@ -23,11 +23,19 @@ disableAnchoredHeadings: false
 
 [My GitHub Repo](https://github.com/hirothreading/dynare_files)
 
-A collection of Dynare .mod files for various macro DSGE models I have looked at throughout my studies. Feedback and advice is always welcome. 
+A collection of Dynare files for various macro DSGE models I have looked at throughout my studies. Feedback and advice is always welcome. 
 
 ---
 
-## University of Milan
+## University of Milan, University of Pavia, and Bocconi University
+
+### Discussions
+
+Discussions and presentations of papers:  
+[Financial Crises (Diamond and Dybvig, 1983; Kareken and Wallace, 1978)](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/dd1983_kw1978_discussion.pdf)  
+["Credit Chains" (Kiyotaki and Moore, 1999)](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/km1999_discussion.pdf)  
+["The Power of Forward Guidance Revisited" (McKay, Nakamura, and Steinsson, 2016)](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/mns2016_discussion.pdf)  
+[Tractable HANK and the New Keynesian Cross (Bilbiie, 2020)](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/bilbiie_thank_notes.pdf)
 
 
 ### Dynamic Economic Modelling
@@ -37,7 +45,7 @@ This course covers basic macroeconomic modelling by introducing multi-period con
 #### Tutorial Questions
 
 [Exercises](/milan_dem_tutorial.pdf)  
-[Exercises (with solutions)](/milan_dem_tutorial_solution.pdf)  
+
 
 #### Problem Sets
 
