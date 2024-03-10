@@ -66,7 +66,7 @@ An introduction to intertemporal optimisation, OLG models, growth, RBC models, t
 
 [Macroeconomics Course Notes](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/macro_notes.pdf)  
   
-
+<!---
 #### Problem Sets
 
 [Problem Set 1: Introduction to Neoclassical Growth Models](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/macro_a1.pdf)  
@@ -76,6 +76,7 @@ An introduction to intertemporal optimisation, OLG models, growth, RBC models, t
 [Problem Set 3: RBC Model Smörgåsbord and Labour Markets](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/macro_a3.pdf)  
 
 [Macroeconomics Vacation Problem Set](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/vac_MT19_macro.pdf)
+--->
 
 ### Advanced Macroeconomics (MPhil Economics)
 
