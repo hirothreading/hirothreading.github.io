@@ -88,4 +88,4 @@ An introduction to intertemporal optimisation, OLG models, growth, RBC models, t
 
 [Introduction to Structural Estimation of DSGE Models](https://hirothreading.github.io/teaching/masters-phd/advanced_macroeconomics/advmacro_notes2.pdf)  
 
-[Bayesian Estimation of VAR and DSGE Models](https://hirothreading.github.io/teaching/masters-phd/advanced_macroeconomics/advmacro_notes1.pdf)
+[Bayesian Estimation of VAR and DSGE Models](https://hirothreading.github.io/teaching/masters-phd/advanced_macroeconomics/advmacro_notes4.pdf)
