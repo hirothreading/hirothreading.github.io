@@ -29,6 +29,11 @@ A collection of Dynare files for various macro DSGE models I have looked at thro
 
 ## University of Milan, University of Pavia, and Bocconi University
 
+### PhD Macroeconomics (1st year)  
+
+[Introduction](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_1.pdf)  
+
+
 ### Discussions
 
 Discussions and presentations of papers:  
