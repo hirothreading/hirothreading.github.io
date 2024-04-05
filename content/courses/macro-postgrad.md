@@ -29,9 +29,12 @@ A collection of Dynare files for various macro DSGE models I have looked at thro
 
 ## University of Milan, University of Pavia, and Bocconi University
 
-### PhD Macroeconomics (1st year)  
+### PhD Macroeconomics (UniMi/Pv, 1st year)  
 
 [Introduction](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_1.pdf)  
+[OLG Model](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_2_olg.pdf)  
+[Intro to Dynamic Programming](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_2.1_dp.pdf)  
+[DSGE Primer](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_3_primer.pdf)  
 
 
 ### Discussions
