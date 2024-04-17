@@ -35,6 +35,7 @@ A collection of Dynare files for various macro DSGE models I have looked at thro
 [OLG Model](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_2_olg.pdf)  
 [Intro to Dynamic Programming](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_2.1_dp.pdf)  
 [DSGE Primer](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_3_primer.pdf)  
+[The RBC Model](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_4_rbc.pdf)  
 
 
 ### Discussions
