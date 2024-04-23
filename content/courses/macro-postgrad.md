@@ -19,11 +19,19 @@ disableAnchoredHeadings: false
 
 ---
 
+## Notes on Macroeconomics
+
+[Macroeconomics *in progress*](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/macro_notes_2.pdf)
+
+An updated version of my personal lectures notes for postgraduate macroeconomics. Some sections will be cut, some will be added, and I am trying to rewrite the notes to clean up typos and make the notation more consistent with textbooks and seminal papers. The original set of notes can be found below under the University of Oxford section.
+
+---
+
 ## Dynare Model Files
 
 [My GitHub Repo](https://github.com/hirothreading/dynare_files)
 
-A collection of Dynare files for various macro DSGE models I have looked at throughout my studies. Feedback and advice is always welcome. 
+A collection of Dynare files for various macro DSGE models I have looked at throughout my studies. Feedback and advice is always welcome.
 
 ---
 
@@ -36,6 +44,7 @@ A collection of Dynare files for various macro DSGE models I have looked at thro
 [Intro to Dynamic Programming](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_2.1_dp.pdf)  
 [DSGE Primer](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_3_primer.pdf)  
 [The RBC Model](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_4_rbc.pdf)  
+[The New Keynesian Model *incomplete*](https://hirothreading.github.io/teaching/masters-phd/macroeconomics/slides_phd1stmacro_5_nk.pdf)  
 
 
 ### Discussions
