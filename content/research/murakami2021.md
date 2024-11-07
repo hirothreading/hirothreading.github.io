@@ -8,9 +8,9 @@ author: ["David Murakami"]
 description: "Using a SOE NK model with an international banking sector, I explore the validity of the trilemma-dilemma debate and global financial cycles. I then use data from South Korea to estimate the model with Bayesian methods." 
 summary: "Using a SOE NK model with an international banking sector, I explore the validity of the trilemma-dilemma debate and global financial cycles. I then use data from South Korea to estimate the model with Bayesian methods." 
 cover:
-editPost:
-    URL: "http://www.palgrave.com/gp/journal/41308"
-    Text: "R&R at IMF Economic Review"
+# editPost:
+#     URL: "http://www.palgrave.com/gp/journal/41308"
+#     Text: "R&R at IMF Economic Review"
 
 ---
 
