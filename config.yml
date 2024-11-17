@@ -1,6 +1,7 @@
 baseURL: "https://hirothreading.github.io/" 
 title: David Murakami
-paginate: 10
+pagination:
+  pagerSize: 10
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -61,8 +62,8 @@ params:
           url: https://github.com/hirothreading?tab=repositories
         - name: LinkedIn
           url: https://www.linkedin.com/in/d-h-murakami/
-        - name: twitter
-          url: https://twitter.com/hirothreading
+        - name: X
+          url: https://x.com/hirothreading
 
     assets:
         disableHLJS: true
@@ -86,8 +87,3 @@ markup:
         endLevel: 2
         ordered: false
         startLevel: 2
-
-# max number of characters:
-# * title: 70
-# * description: 120–155
-# * summary: 265
