@@ -62,7 +62,7 @@ params:
           url: https://github.com/hirothreading?tab=repositories
         - name: LinkedIn
           url: https://www.linkedin.com/in/d-h-murakami/
-        - name: X
+        - name: Twitter
           url: https://x.com/hirothreading
 
     assets:
