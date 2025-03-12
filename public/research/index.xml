@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on David Murakami</title>
+    <link>https://hirothreading.github.io/research/</link>
+    <description>Recent content in Research on David Murakami</description>
+    <generator>Hugo -- 0.142.0</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://hirothreading.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Through a Glass, Darkly: Monetary Policy under Uncertainty (tentative)</title>
+      <link>https://hirothreading.github.io/murakami2025/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/murakami2025/</guid>
+      <description>(forthcoming)</description>
+    </item>
+    <item>
+      <title>International Bewley Banks</title>
+      <link>https://hirothreading.github.io/am2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/am2023/</guid>
+      <description>(forthcoming)</description>
+    </item>
+    <item>
+      <title>Memory Decay and Determinacy</title>
+      <link>https://hirothreading.github.io/amz2023/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/amz2023/</guid>
+      <description>(forthcoming)</description>
+    </item>
+    <item>
+      <title>Unconventional Policy in a Low Interest Rate Environment</title>
+      <link>https://hirothreading.github.io/msz2021/</link>
+      <pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/msz2021/</guid>
+      <description>(forthcoming)</description>
+    </item>
+    <item>
+      <title>It is Taxing to be Coherent</title>
+      <link>https://hirothreading.github.io/murakamishchapovzhang2023/</link>
+      <pubDate>Wed, 11 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/murakamishchapovzhang2023/</guid>
+      <description>With full information and rational expectations, we show that appropriate fiscal targeting rules ensure that New Keynesian models subject to the ZLB possess a unique solution.</description>
+    </item>
+    <item>
+      <title>CBDCs, Financial Inclusion, and Optimal Monetary Policy</title>
+      <link>https://hirothreading.github.io/msv2022/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/msv2022/</guid>
+      <description>We use a New Keynesian DSGE model to explore the financial inclusion tradeoffs of extending a retail-indirect CBDC to the unbanked, as well as optimal monetary considerations.</description>
+    </item>
+    <item>
+      <title>Cryptocurrencies in Emerging Markets: A Stablecoin Solution?</title>
+      <link>https://hirothreading.github.io/mv2021/</link>
+      <pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/mv2021/</guid>
+      <description>We study the macroeconomic effects of introducing cryptocurrencies in a workhorse small open economy model. Cryptocurrency adoption attenuates both domestic and foreign monetary policy transmission, and flexible exchange rates provide an effective buffer against cryptocurrency price shocks. Our findings motivate the increasing use of stablecoins in emerging markets as a hedge against macroeconomic uncertainty.</description>
+    </item>
+    <item>
+      <title>Gone with the Wind: Monetary Policy and the Global Financial Cycle</title>
+      <link>https://hirothreading.github.io/murakami2021/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/murakami2021/</guid>
+      <description>Using a SOE NK model with an international banking sector, I explore the validity of the trilemma-dilemma debate and global financial cycles. I then use data from South Korea to estimate the model with Bayesian methods.</description>
+    </item>
+    <item>
+      <title>Productivity over the Life-Cycle and its Effects on the Interest Rate</title>
+      <link>https://hirothreading.github.io/km2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hirothreading.github.io/km2021/</guid>
+      <description>We use an OTANK model to explore the relationship between productivity, demographic shifts, and interest rates in Japan for the post-bubble era.</description>
+    </item>
+  </channel>
+</rss>
