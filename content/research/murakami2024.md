@@ -1,5 +1,5 @@
 ---
-title: "Through a Glass, Darkly: Monetary Policy under Uncertainty (tentative)" 
+title: "Through a Glass, Darkly: Monetary Policy under Uncertainty" 
 date: 2024-10-01
 url: /murakami2025/
 aliases: 
