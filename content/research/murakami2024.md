@@ -4,7 +4,7 @@ date: 2024-10-01
 url: /murakami2025/
 aliases: 
     - /murakami2025.html
-author: ["David Murakami (JMP)"]
+author: ["David Murakami and Yifan Zhang"]
 description: "(forthcoming)" 
 summary: "(forthcoming)" 
 cover:
