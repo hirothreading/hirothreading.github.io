@@ -41,7 +41,7 @@ params:
     profileMode:
           enabled: true
           title: David Murakami
-          subtitle: "I am a PhD Candidate in Economics at the University of Milan and University of Pavia, supervised by Guido Ascari and co-supervised by Andrea Ferrero and Francesco Zanetti. I will be joining the Bank of England's International Division in the fall this year. I hold an MPhil in Economics from the University of Oxford and an MA in Economics from Keio University. I was a visiting PhD student at Bocconi University, and am currently visiting the University of Oxford. I like researching monetary policy, financial frictions, and international macroeconomics.."
+          subtitle: "I am a PhD Candidate in Economics at the University of Milan and University of Pavia, supervised by Guido Ascari and co-supervised by Andrea Ferrero and Francesco Zanetti. I will be joining the Bank of England's International Division in the fall this year. I hold an MPhil in Economics from the University of Oxford and an MA in Economics from Keio University. I was a visiting PhD student at Bocconi University, and am currently visiting the University of Oxford. I like researching monetary policy, financial frictions, and international macroeconomics."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
