@@ -17,7 +17,7 @@ menu:
           weight: 2
 
 params:
-    description: "I am a macroeconomist in the Bank of England's International Directorate, and am a PhD Candidate in Economics at the University of Milan and University of Pavia, supervised by Guido Ascari and co-supervised by Andrea Ferrero and Francesco Zanetti. I hold an MPhil in Economics from the University of Oxford and an MA in Economics from Keio University. I was a visiting PhD student at Bocconi University and the University of Oxford. I research monetary policy, financial frictions, and international macroeconomics."
+    description: "I am a macroeconomist in the Bank of England's Macro Modelling Division, and a PhD Candidate in Economics at the University of Milan and University of Pavia, supervised by Guido Ascari and co-supervised by Andrea Ferrero and Francesco Zanetti. I hold an MPhil in Economics from the University of Oxford and an MA in Economics from Keio University. I was a visiting PhD student at Bocconi University and the University of Oxford. I research monetary policy, financial frictions, and international macroeconomics."
     author: David Murakami
     dateFormat: "January 2006"
     defaultTheme: light
@@ -41,7 +41,7 @@ params:
     profileMode:
           enabled: true
           title: David Murakami
-          subtitle: "I am a macroeconomist in the Bank of England's International Directorate, and am a PhD Candidate in Economics at the University of Milan and University of Pavia, supervised by Guido Ascari and co-supervised by Andrea Ferrero and Francesco Zanetti. I hold an MPhil in Economics from the University of Oxford and an MA in Economics from Keio University. I was a visiting PhD student at Bocconi University and the University of Oxford. I research monetary policy, financial frictions, and international macroeconomics."
+          subtitle: "I am a macroeconomist in the Bank of England's Macro Modelling Division, and a PhD Candidate in Economics at the University of Milan and University of Pavia, supervised by Guido Ascari and co-supervised by Andrea Ferrero and Francesco Zanetti. I hold an MPhil in Economics from the University of Oxford and an MA in Economics from Keio University. I was a visiting PhD student at Bocconi University and the University of Oxford. I research monetary policy, financial frictions, and international macroeconomics."
           imageUrl: "/picture.jpeg"
           imageWidth: 160
           imageHeight: 160
