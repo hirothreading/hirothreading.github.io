@@ -18,8 +18,7 @@ cover:
 
 #### Download:
 
-- [Paper](/Murakami2021.pdf)
-- [Slides](/20230519_Murakami.pdf)
+- [Working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4198695)
 
 ---
 
@@ -31,7 +30,7 @@ This paper builds and estimates a small open economy New Keynesian DSGE model, s
 
 #### IRFs to an annualised 1% shock to the Foreign Interest Rate
 
-![](/murakami2021_fig1.pdf)  
+![](/heathrow_2025_fig1.pdf)  
 
 Variables are expressed in percent deviations from their non-stochastic steady state values. Infation and interest rates are annualised.
 
@@ -46,5 +45,5 @@ Variables are expressed in percent deviations from their non-stochastic steady s
 
 #### Citation:
 
-Murakami, David, Gone with the Wind: Monetary Policy and the Global Financial Cycle (June 30, 2021). Available at SSRN: https://ssrn.com/abstract=4198695 or http://dx.doi.org/10.2139/ssrn.4198695
+Murakami, David, Gone with the Wind: Monetary Policy and the Global Financial Cycle (31 December 2025). Available at SSRN: https://ssrn.com/abstract=4198695 or http://dx.doi.org/10.2139/ssrn.4198695
 
