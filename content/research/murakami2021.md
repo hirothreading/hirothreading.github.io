@@ -30,7 +30,7 @@ This paper builds and estimates a small open economy New Keynesian DSGE model, s
 
 #### IRFs to an annualised 1% shock to the Foreign Interest Rate
 
-![](/heathrow_2025_fig1.pdf)  
+![](/heathrow_2025_fig1.png)  
 
 Variables are expressed in percent deviations from their non-stochastic steady state values. Infation and interest rates are annualised.
 
