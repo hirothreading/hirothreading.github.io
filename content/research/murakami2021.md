@@ -31,7 +31,7 @@ This paper asks whether a floating exchange rate insulates a financially open ec
 
 ![](/heathrow_2026_fig2.png)  
 
-Share of quarters in each financial-stress regime in simulations driven by US monetary policy shocks (20 paths of 2,000 quarters, shock at its posterior standard deviation), evaluated at the posterior mode, as the Korean policy rule leans more heavily against the exchange rate ($\phi_E = 0$ is a float; 0.22 is the estimated rule). Global financial crises, in which both countries' bank leverage constraints bind, are about as frequent under every rule; Korea-only stress rises with exchange rate management. The remainder of each column is normal times.
+Share of quarters in each financial-stress regime in simulations driven by US monetary policy shocks (20 paths of 2,000 quarters, shock at its posterior standard deviation), evaluated at the posterior mode, as the Korean policy rule leans more heavily against the exchange rate ($\phi_E = 0$ is a float; $0.22$ is the estimated rule). Global financial crises, in which both countries’ bank leverage constraints bind, occur in 7.6–8.5 per cent of quarters under every rule; Korea-only stress rises from 0.4 per cent under a float to 5.7 per cent at $\phi_E = 5$. The remainder of each column is normal times.
 
 ---
 
