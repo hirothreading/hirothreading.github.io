@@ -27,11 +27,11 @@ This paper asks whether a floating exchange rate insulates a financially open ec
 
 ---
 
-#### Responses to a Stress-Sized US Monetary Policy Shock at the Posterior Mode
+#### Financial Stress under Alternative Exchange Rate Rules
 
-![](/heathrow_2026_fig1.png)  
+![](/heathrow_2026_fig2.png)  
 
-Impulse responses to a US monetary policy shock of 4.7 posterior standard deviations, the size at which the US corporate spread rises by 2.5 percentage points on impact, as between 2008Q2 and 2008Q4 (a rise of 1.7 percentage points in the annualised Foreign policy rate on impact), evaluated at the posterior mode under the estimated Home policy rule ($\phi_E=0.22$). Solid blue lines: piecewise linear (OccBin) solution in which both incentive compatibility constraints may bind; dashed red lines: linear solution in which neither binds; dotted black lines: steady state. Shaded quarters (1–4) are those in which both the Home and the Foreign constraint bind. Quantities are percentage deviations from steady state; rates, inflation, and spreads are annualised percentage points; leverage gaps are in leverage units. Horizon in quarters.
+Share of quarters in each financial-stress regime in simulations driven by US monetary policy shocks (20 paths of 2,000 quarters, shock at its posterior standard deviation), evaluated at the posterior mode, as the Korean policy rule leans more heavily against the exchange rate ($\phi_E = 0$ is a float; 0.22 is the estimated rule). Global financial crises, in which both countries' bank leverage constraints bind, are about as frequent under every rule; Korea-only stress rises with exchange rate management. The remainder of each column is normal times.
 
 ---
 
